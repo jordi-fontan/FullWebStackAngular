@@ -1,7 +1,7 @@
 import { Component,OnInit } from '@angular/core';
 import { Listing } from '../types';
 import { fakeListings } from '../fake-data';
-import { ActivatedRoute, Route } from '@angular/router';
+
 
 @Component({
   selector: 'app-my-listings-page',
